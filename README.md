@@ -29,6 +29,11 @@ graph LR
     end
 ```
 
+## 效果
+<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/f2a3db5d-67fa-4078-b19c-a2acdff9f2bf" />
+<img width="360" height="780" alt="image" src="https://github.com/user-attachments/assets/c3e51c05-c44c-4bc4-8877-911ec471b645" />
+
+
 ## 方式一：Moltbot / Clawdbot 插件（推荐）
 
 ### 1. 安装插件
@@ -59,6 +64,10 @@ moltbot plugins install -l ./dingtalk-moltbot-connector
   }
 }
 ```
+
+或者在Moltbot Dashboard页面配置
+<img width="1916" height="1996" alt="image" src="https://github.com/user-attachments/assets/00b585ca-c1df-456c-9c65-7345a718b94b" />
+
 
 ### 3. 重启 Gateway
 
