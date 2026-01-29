@@ -198,7 +198,7 @@ dingtalk-moltbot-connector/
 
 ```json5
 {
-  "gateway": {
+  "gateway": { // gateway通常是已有的节点，配置时注意把http部分追加到已有节点下
     "http": {
       "endpoints": {
         "chatCompletions": {
